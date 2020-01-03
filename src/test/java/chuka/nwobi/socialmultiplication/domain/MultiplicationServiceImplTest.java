@@ -1,5 +1,7 @@
 package chuka.nwobi.socialmultiplication.domain;
 
+import chuka.nwobi.socialmultiplication.service.MultiplicationServiceImpl;
+import chuka.nwobi.socialmultiplication.service.RandomGeneratorService;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;
@@ -7,8 +9,6 @@ import org.mockito.MockitoAnnotations;
 
 
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.junit.Assert.*;
-import static org.mockito.BDDMockito.given;
 
 public class MultiplicationServiceImplTest {
 private MultiplicationServiceImpl multiplicationService ;

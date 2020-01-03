@@ -1,4 +1,4 @@
-package chuka.nwobi.socialmultiplication.domain;
+package chuka.nwobi.socialmultiplication.service;
 
 public interface RandomGeneratorService {
 

@@ -1,4 +1,4 @@
-package chuka.nwobi.socialmultiplication.domain;
+package chuka.nwobi.socialmultiplication.service;
 
 import org.springframework.stereotype.Service;
 

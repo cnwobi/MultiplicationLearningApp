@@ -1,6 +1,9 @@
-package chuka.nwobi.socialmultiplication.domain;
+package chuka.nwobi.socialmultiplication.service;
 
+import chuka.nwobi.socialmultiplication.domain.Multiplication;
+import chuka.nwobi.socialmultiplication.domain.MultiplicationResultAttempt;
 import chuka.nwobi.socialmultiplication.service.MultiplicationService;
+import chuka.nwobi.socialmultiplication.service.RandomGeneratorService;
 import org.springframework.stereotype.Service;
 
 @Service
